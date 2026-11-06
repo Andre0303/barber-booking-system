@@ -71,11 +71,10 @@ Install these before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/barber-booking-system.git
+git clone https://github.com/Andre0303/barber-booking-system.git
 cd barber-booking-system
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Install frontend dependencies
 
